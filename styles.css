@@ -1,4 +1,4 @@
-img {
+.immaginelogo {
   height: 200px;
 }
 * {
@@ -9,7 +9,7 @@ img {
 // <weight>: Use a value from 400 to 700
 
 
-div{
+#divpesce{
    
     width: 50%;
     margin-left: 25%;
@@ -17,7 +17,7 @@ div{
     background: #FA4032;
    
 }
-img{
+#pescemedievale{
 width: 100%;
 border: solid #FA812F;
 border-width: 5px 0px;
@@ -26,7 +26,7 @@ margin: 5px;
 margin-left: 0px;
 
 }
-h2{
+#workinprogress{
     color:#FAB12F;
     background: #FA4032;
     text-transform: capitalize;
@@ -34,7 +34,7 @@ h2{
     font-family: "Libre Baskerville";
     margin: 0px;
 }
-p{
+#capionpesce{
     text-align: center;
     font-family: "Libre Baskerville";
     color:#FAB12F;
