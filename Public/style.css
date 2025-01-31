@@ -1,4 +1,4 @@
-html{
+*{
   background: black;
 }
 
@@ -19,7 +19,7 @@ html{
     background: #FA4032;
    
 }
-.pesce{
+#pescemedievale{
 width: 100%;
 border: solid #FA812F;
 border-width: 5px 0px;
