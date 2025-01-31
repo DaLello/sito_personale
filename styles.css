@@ -5,40 +5,6 @@
   font-family: "Bona Nova", serif;"
 }
 
-#htmlwork_in_progress{
-  background: black;
-}
-
-#divpesce{
-  width: 50%;
-  margin-left: 25%;
-    border: 10px dashed #FA812F;
-    background: #FA4032;
-   
-}
-#pescemedievale{
-width: 100%;
-border: solid #FA812F;
-border-width: 5px 0px;
-background: #CBA35C;
-margin: 5px;
-margin-left: 0px;
-
-}
-#workinprogress{
-    color:#FAB12F;
-    background: #FA4032;
-    text-transform: capitalize;
-    text-align: center;
-    font-family: "Libre Baskerville";
-    margin: 0px;
-}
-#testopesce{
-    text-align: center;
-    font-family: "Libre Baskerville";
-    color: #FAB12F;
-}
-
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 400 to 700
 
