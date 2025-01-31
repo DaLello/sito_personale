@@ -2,7 +2,6 @@ body{
     background: black;
 }
 .divlogo{
-   
     width: 50%;
     margin-left:25%;
    
@@ -13,7 +12,6 @@ body{
     margin-left: 0px;
 }
 .divpesce{
-   
     width: 50%;
     margin-left:25%;
     border: 10px dashed #FA812F;
@@ -21,12 +19,12 @@ body{
    
 }
 .pesce{
-width: 100%;
-border: solid #FA812F;
-border-width: 5px 0px;
-background: #CBA35C;
-margin: 5px;
-margin-left: 0px;
+    width: 100%;
+    border: solid #FA812F;
+    border-width: 5px 0px;
+    background: #CBA35C;
+    margin: 5px;
+    margin-left: 0px;
 
 }
 h1{
@@ -38,8 +36,7 @@ h1{
     margin: 0px;
 }
 p{
-    text-align: center;
-    font-family: "Libre Baskerville";
-    color: #FAB12F;
-    
+   text-align: center;
+   font-family: "Libre Baskerville";
+   color: #FAB12F;   
 }
