@@ -1,29 +1,45 @@
+body{
+    background: black;
+}
 .divlogo{
-  width: 50%;
-  margin-left: 25%;
-  margin-top: 0px;
-  
-.Immaginelogo {
-  height: 200px;
+   
+    width: 50%;
+    margin-left:25%;
+   
 }
-  
-body {
-  background-color: red;
+.imglogo{
+    width: 100%;
+    margin: 5px;
+    margin-left: 0px;
 }
-h1 {
-  text-transform: uppercase;
-  font-size: 3rem;
+.divpesce{
+   
+    width: 50%;
+    margin-left:25%;
+    border: 10px dashed #FA812F;
+    background: #FA4032;
+   
 }
+.pesce{
+width: 100%;
+border: solid #FA812F;
+border-width: 5px 0px;
+background: #CBA35C;
+margin: 5px;
+margin-left: 0px;
 
-.poster {
-  width: 50%;
-  margin-left: 25%;
-  margin-top: 100px;
-  color: white;
 }
-
-#pescemedievale {
-  border: 5px solid white;
-  width: 100%;
-  background: #CBA35C;
+h1{
+    color:#FAB12F;
+    background: #FA4032;
+    text-transform: capitalize;
+    text-align: center;
+    font-family: "Libre Baskerville";
+    margin: 0px;
+}
+p{
+    text-align: center;
+    font-family: "Libre Baskerville";
+    color: #FAB12F;
+    
 }
