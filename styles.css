@@ -4,6 +4,48 @@
 * {
   font-family: "Bona Nova", serif;"
 }
+body{
+  background: #FEF9E1;
+}
+.testo{
+  font-size: 18px;
+}
+.divpiede{
+  width: 100%;
+  margin-left: 25%;
+  padding: 0%;
+  text-align: center;}
+
+.piede{
+    font-size: 1em;
+    margin: 0%;
+    text-align: center;
+}
+div{
+  width: 100%;
+  margin-left: 25%;
+  margin-right: 25%;
+  }
+
+.immaginelogo{
+  width: 100%;
+  height: 100%;
+  margin-left: 0px;
+}
+.didascalia{
+  text-align: center;
+  font-size: 2rem;
+  margin: 0%;
+}
+
+.cantiere{
+  border: 5px solid #A31D1D;
+  text-align: center;
+  margin-bottom: 15px;
+}
+.title{
+  margin: 0%;
+}
 
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 400 to 700
