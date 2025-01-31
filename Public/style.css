@@ -1,0 +1,32 @@
+
+div{
+   
+    width: 50%;
+    margin-left: 25%;
+    border: 10px dashed #FA812F;
+    background: #FA4032;
+   
+}
+.pesce{
+width: 100%;
+border: solid #FA812F;
+border-width: 5px 0px;
+background: #CBA35C;
+margin: 5px;
+margin-left: 0px;
+
+}
+h1{
+    color:#FAB12F;
+    background: #FA4032;
+    text-transform: capitalize;
+    text-align: center;
+    font-family: "Libre Baskerville";
+    margin: 0px;
+}
+p{
+    text-align: center;
+    font-family: "Libre Baskerville";
+    color:#FAB12F;
+    
+}
