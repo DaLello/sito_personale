@@ -1,6 +1,3 @@
-.immaginelogo {
-  height: 200px;
-}
 * {
   font-family: "Bona Nova", serif;"
 }
@@ -10,8 +7,24 @@ body {
 .testo {
   font-size: 18px;
 }
-.divpiede {
+
+div {
+  width: 50%;
+  margin-left: 25%;
+ }
+
+.divlogo{
+  width: 50%;
+  margin-left:25%;
+}
+.imglogo {
   width: 100%;
+  margin: 5px;
+  margin-left: 0px;
+}
+  
+  .divpiede {
+  width: 50%;
   margin-left: 25%;
   padding: 0%;
   text-align: center;}
@@ -21,16 +34,7 @@ body {
     margin: 0%;
     text-align: center;
 }
-div {
-  width: 100%;
-  margin-left: 25%;
-  margin-right: 25%;
-  }
 
-.immaginelogo {
-  width: 100%;
-  height: 100%;
-  margin-left: 0px;
 }
 .didascalia {
   text-align: center;
