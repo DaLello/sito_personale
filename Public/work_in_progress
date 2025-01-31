@@ -14,7 +14,7 @@
 <a href="/Portfolio/about_me.html"><img class="immaginelogo" src="/Immagini/Logo/PNG/Marchio Invertito.png" alt="go to about me"/></a>
 
 <div id="divpesce">
-  <h2 id="workinprogress">Work in progress!</h2>
+  <h1 id="workinprogress">Work in progress!</h2>
    <img id="pescemedievale" src="/Immagini/pescemedievale.png" alt="pescemedievale"/>
   <p id="testopesce">confido ne desinat in piscem!</p>
 </div>
