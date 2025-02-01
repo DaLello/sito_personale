@@ -1,0 +1,21 @@
+* {
+  font-family: "Chakra Petch", serif;
+}
+ body{
+background-color: #CBA35C;
+color: white;
+font-size: 100%;
+margin: 0%;}
+
+.testo {
+  font-size: 18px;
+}
+
+.divlogo{
+  width: 50%;
+  margin-left:25%;
+}
+.imglogo {
+  width: 100%;
+
+}
