@@ -1,8 +1,9 @@
-* {
-  font-family: "Chakra Petch", serif;
-}
 
 body{
+  font-family: "Tinos", serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.375;
   background-color: #EEEDED;
   color: #0D1282;
   margin: 2em;
