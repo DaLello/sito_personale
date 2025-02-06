@@ -1,6 +1,18 @@
 * {
   font-family: "Chakra Petch", serif;
 }
+
+body{
+  background-color: #EEEDED;
+  color: #0D1282;
+  margin: 2em;
+}
+
+a:link{
+  color: #0D1282;
+  
+}
+
 .gradient-background {
   background: linear-gradient(300deg, #0A1931, #03051E, #E1FFBB);
   background-size: 180% 180%;
