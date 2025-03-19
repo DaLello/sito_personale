@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Art gallery</title>
+  <link rel="stylesheet" href="/styles.css"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<style>
+body{
+  background-color: black;
+  font-family: "Rosarivo", serif;
+}
+  
+ <iframe width="560" height="315" src="https://www.artsteps.com/embed/67d04ea9449003ef45daffa4/560/315" frameborder="0" allowfullscreen></iframe>
+</body>
+  <foot>
+<div class="divlogo">
+    <a href="/index.html"><img class="imglogo" src="/Immagini/Logo/PNG/Marchio Invertito.png" alt="back to home"/></a>
+</div>
+</foot>
+</html>
